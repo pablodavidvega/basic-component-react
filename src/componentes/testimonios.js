@@ -1,4 +1,4 @@
-// import '../hojas-de-estilo/Testimonio.css';
+import './hojas-de-estilo/Testimonio.css';
 //Componente funcional
 function Testimonio(props) {
     return (

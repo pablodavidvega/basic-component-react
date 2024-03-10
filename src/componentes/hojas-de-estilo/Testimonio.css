@@ -36,3 +36,9 @@
     font-size: 1.1rem;
     text-align: justify;
   }
+
+  .emailTestimonios {
+    display: flex;
+    justify-content: left;
+    margin-top: 20px;
+  }
